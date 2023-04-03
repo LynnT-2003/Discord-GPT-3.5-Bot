@@ -1,0 +1,25 @@
+{
+  "name": "discord-gpt-3.5-bot",
+  "version": "1.0.0",
+  "description": "A discord chat bot using Javascript and GPT 3.5's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LynnT-2003/Discord-GPT-3.5-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LynnT-2003/Discord-GPT-3.5-Bot/issues"
+  },
+  "homepage": "https://github.com/LynnT-2003/Discord-GPT-3.5-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
