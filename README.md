@@ -1,4 +1,4 @@
-# Discord-Translate-Bot
+# Discord-GPT-Bot-3.5
 
 A Discord chatbot that uses the OpenAI API to generate friendly responses based on user messages in a specific channel.
 
