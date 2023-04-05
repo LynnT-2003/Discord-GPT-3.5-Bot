@@ -36,13 +36,15 @@ Create a .env file in the project's root directory and add your Discord bot toke
   CHANNEL_ID=target_channel_id
 ```
 
-Run the bot:
-
 ```bash
-  npm start
+  API_KEY=your_openai_api_key
 ```
 
-or:
+```bash
+  CHANNEL_ID=target_channel_id
+```
+
+Run the bot:
 
 ```bash
   node index.js
