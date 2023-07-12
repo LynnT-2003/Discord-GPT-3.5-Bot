@@ -53,3 +53,6 @@ Outdated response with old prompt:
 
 New response after updating prompt for more sentiment responses:
 ![App Screenshot](https://github.com/LynnT-2003/Discord-GPT-3.5-Bot/blob/main/img/screenshot.png)
+
+Latest response after updating prompt for more a personal response:
+![App Screenshot](https://github.com/LynnT-2003/Discord-GPT-3.5-Bot/blob/main/img/screenshot2.png)
