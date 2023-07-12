@@ -4,16 +4,6 @@ A Discord chatbot that uses the OpenAI API to generate friendly responses based 
 
 ![App Screenshot](https://github.com/LynnT-2003/Discord-GPT-3.5-Bot/blob/main/img/its_online.png?raw=true)
 
-## Usage
-
-Once the bot is online, it will respond to messages sent in the specified channel. It will generate friendly responses based on the user messages and the conversation context.
-
-Outdated response with old prompt:
-![App Screenshot](https://github.com/LynnT-2003/Discord-GPT-3.5-Bot/blob/main/img/discord_screenshot.png?raw=true)
-
-New response after updating prompt for more sentiment responses:
-![App Screenshot](https://github.com/LynnT-2003/Discord-GPT-3.5-Bot/blob/main/img/screenshot.png)
-
 ## Installation and Setup
 
 Clone this repository:
@@ -53,3 +43,13 @@ Run the bot:
 ```bash
   node index.js
 ```
+
+## Usage
+
+Once the bot is online, it will respond to messages sent in the specified channel. It will generate friendly responses based on the user messages and the conversation context.
+
+Outdated response with old prompt:
+![App Screenshot](https://github.com/LynnT-2003/Discord-GPT-3.5-Bot/blob/main/img/discord_screenshot.png?raw=true)
+
+New response after updating prompt for more sentiment responses:
+![App Screenshot](https://github.com/LynnT-2003/Discord-GPT-3.5-Bot/blob/main/img/screenshot.png)
