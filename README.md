@@ -10,6 +10,8 @@ Once the bot is online, it will respond to messages sent in the specified channe
 
 ![App Screenshot](https://github.com/LynnT-2003/Discord-GPT-3.5-Bot/blob/main/img/discord_screenshot.png?raw=true)
 
+![App Screenshot](https://github.com/LynnT-2003/Discord-GPT-3.5-Bot/blob/main/img/screenshot.png)
+
 ## Installation and Setup
 
 Clone this repository:
